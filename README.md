@@ -1,4 +1,4 @@
-# YouTubeApp
+# YouTubeApp for Recipe-Videos Transcription and Searchable Database with Alerts 
 
 ### Who are the customers?
 1. Home cooks and food enthusiasts
