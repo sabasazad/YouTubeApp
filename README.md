@@ -49,4 +49,22 @@
 12. Community engagement
 13. Keeping up with new content
 
-    The app addressed these problems by providing test-based transcriptions of video recipes, creating a searchable database, offering dietary and nutritional analysis, optimizing content for SEO, and delivering alerts or updated related to cooking and culinary interests. It enhances the efficiency, accessibility and overall experience of working with recipe videos on YouTube.
+    The app addressed these problems by providing test-based transcriptions of video recipes, creating a searchable database, offering dietary and nutritional analysis, optimizing content for SEO, and delivering alerts or updates related to cooking and culinary interests. It enhances the efficiency, accessibility and overall experience of working with recipe videos on YouTube.
+
+### What are the capabilities of the solution?
+1. Video transcription
+2. Searchable database
+3. Keyword and tagging system
+4. Dietary and nutritional analysis
+5. Alerts and notifications
+6. Accessibility features
+7. Content creation and SEO
+8. User profiles
+9. Meal planning and grocery lists
+10. Community engagement
+11. Data analysis and insights
+12. Feedback and ratings
+14. Advanced search and filters
+
+These capabilities collectively provide a comprehensive solution for accessing, organizing, and utilizing recipe content from YouTube videos, improving the overall cooking and culinary experince for a wide range of users.
+
